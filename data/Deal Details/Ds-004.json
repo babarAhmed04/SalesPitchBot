@@ -1,0 +1,22 @@
+{
+    "DealID": "deal-004",
+    "Account Name": "Global Health Services",
+    "Deal Date": "2020",
+    "Deal Currency": "USD",
+    "Products": [
+        {
+            "Product Name": "High-Performance Servers",
+            "Unit Price": 50000,
+            "Quantity": 5,
+            "Discount": "25%",
+            "Total Price": 250000
+        },
+        {
+            "Product Name": "Advanced Storage Devices",
+            "Unit Price": 10000,
+            "Quantity": 5,
+            "Discount": "25%",
+            "Total Price": 50000
+        }
+    ]
+}

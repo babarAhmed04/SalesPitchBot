@@ -1,0 +1,22 @@
+{
+    "DealID": "deal-005",
+    "Account Name": "Global Finance Corp",
+    "Deal Date": "2020",
+    "Deal Currency": "USD",
+    "Products": [
+        {
+            "Product Name": "High-Performance Servers",
+            "Unit Price": 75000,
+            "Quantity": 5,
+            "Discount": "30%",
+            "Total Price": 375000
+        },
+        {
+            "Product Name": "Advanced Storage Devices",
+            "Unit Price": 10000,
+            "Quantity": 5,
+            "Discount": "30%",
+            "Total Price": 50000
+        }
+    ]
+}

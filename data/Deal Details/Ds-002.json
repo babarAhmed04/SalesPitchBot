@@ -1,0 +1,22 @@
+{
+    "DealID": "deal-002",
+    "Account Name": "Global Online Retailer",
+    "Deal Date": "2020",
+    "Deal Currency": "USD",
+    "Products": [
+        {
+            "Product Name": "Custom-Built Computers",
+            "Unit Price": 50000,
+            "Quantity": 5,
+            "Discount": "15%",
+            "Total Price": 250000
+        },
+        {
+            "Product Name": "Peripherals (Monitors and Keyboards)",
+            "Unit Price": 30000,
+            "Quantity": 5,
+            "Discount": "15%",
+            "Total Price": 150000
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "DealID": "deal-001",
+    "Account Name": "Universal Financial Group",
+    "Deal Date": "2020",
+    "Deal Currency": "USD",
+    "Products": [
+        {
+            "Product Name": "Preconfigured Servers",
+            "Unit Price": 40000,
+            "Quantity": 5,
+            "Discount": "10%",
+            "Total Price": 200000
+        },
+        {
+            "Product Name": "Advanced Storage Devices",
+            "Unit Price": 30000,
+            "Quantity": 5,
+            "Discount": "10%",
+            "Total Price": 150000
+        }
+    ]
+}

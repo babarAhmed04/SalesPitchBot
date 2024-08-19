@@ -1,0 +1,22 @@
+{
+    "DealID": "deal-003",
+    "Account Name": "Global Education Initiative",
+    "Deal Date": "2020",
+    "Deal Currency": "USD",
+    "Products": [
+        {
+            "Product Name": "High-Performance Servers",
+            "Unit Price": 30000,
+            "Quantity": 5,
+            "Discount": "20%",
+            "Total Price": 150000
+        },
+        {
+            "Product Name": "Advanced Storage Devices",
+            "Unit Price": 10000,
+            "Quantity": 5,
+            "Discount": "20%",
+            "Total Price": 50000
+        }
+    ]
+}
